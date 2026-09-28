@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.uvprojx text eol=crlf
+*.ioc text eol=crlf
+*.s text eol=crlf
+*.sh text eol=lf
+

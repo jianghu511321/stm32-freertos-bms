@@ -1,0 +1,5 @@
+menu "BMS demo packages"
+source "$BR2_EXTERNAL_BMS_PATH/package/bms-gateway/Config.in"
+source "$BR2_EXTERNAL_BMS_PATH/package/bms-can-monitor/Config.in"
+endmenu
+

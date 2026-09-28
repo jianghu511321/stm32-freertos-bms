@@ -1,0 +1,3 @@
+name: BMS
+desc: STM32 FreeRTOS BMS demo packages and QEMU target
+

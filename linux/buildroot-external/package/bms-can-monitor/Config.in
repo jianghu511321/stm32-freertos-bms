@@ -1,0 +1,6 @@
+config BR2_PACKAGE_BMS_CAN_MONITOR
+	bool "bms-can-monitor"
+	depends on BR2_LINUX_KERNEL
+	help
+	  Kernel module that buffers BMS CAN telemetry and exposes it in debugfs.
+

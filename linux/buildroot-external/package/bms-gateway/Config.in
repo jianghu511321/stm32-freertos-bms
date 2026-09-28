@@ -1,0 +1,6 @@
+config BR2_PACKAGE_BMS_GATEWAY
+	bool "bms-gateway"
+	depends on BR2_TOOLCHAIN_HAS_THREADS
+	help
+	  SocketCAN telemetry collector for the STM32 FreeRTOS BMS demo.
+

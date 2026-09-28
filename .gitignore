@@ -1,0 +1,17 @@
+# Keil output
+firmware/MDK-ARM/BMS_F103/
+firmware/MDK-ARM/*.bak
+firmware/MDK-ARM/*.dep
+firmware/MDK-ARM/*.lst
+firmware/MDK-ARM/*.uvguix.*
+firmware/MDK-ARM/*.scvd
+
+# Host builds
+build/
+out/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
